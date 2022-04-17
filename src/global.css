@@ -1,0 +1,14 @@
+body {
+    overflow: hidden;
+}
+
+body > .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body > .wrapper > section {
+    border: 1px solid grey;
+    width: 50vw;
+    height: 50vh;
+}

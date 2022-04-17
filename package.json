@@ -1,0 +1,12 @@
+{
+  "name": "MVC-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "targets": {
+    "main": false
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
